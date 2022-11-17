@@ -1,0 +1,8 @@
+<!DOCTYPE html>
+<html>
+<head><title><b>paws and plays</b></title></head>
+<body>
+  It is a awareness website about the virtual adoptation.
+  pet adoptation is becoming the preferred way to find pets.
+</body>
+</html>
