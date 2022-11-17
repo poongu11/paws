@@ -1,0 +1,6 @@
+<html>
+<head><title>AIML</title></head>
+<body>
+the aim is a new course and it is easy to learn 
+</body>
+</html>
